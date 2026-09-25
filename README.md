@@ -20,7 +20,7 @@ Run `Main.m`. It simulates the three controllers and plots the results (Figure 4
 - `wRLS_CE_LQR.m`: weighted recursive least squares CE-LQR
 - `CEC.m`: regret rate minimizing certainty-equivalence controller
 - `Minimax.m`: minimax optimal dual controller
-- `dependencies/`: helper functions and third-party code
+- `dependencies/`: helper functions
 
 ## Citation
 
