@@ -6,7 +6,8 @@ MATLAB code for the numerical case studies in
 
 > T. J. Meijer and A. Rantzer, "Dual Control: On Exploration–Exploitation in Linear Systems," *Annual Review of Control, Robotics, and Autonomous Systems*, vol. 10, 2027.
 
-See the paper for details.
+See the paper for details. 
+Preprint available at: https://arxiv.org/abs/2608.20073
 
 ## Usage
 
