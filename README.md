@@ -10,17 +10,17 @@ See the paper for details.
 
 ## Usage
 
-Requires Manopt (http://manopt.org/).
-
 Run `Main.m`. It simulates the three controllers and plots the results (Figure 4 of the paper). The model, noise type and parameters are set at the top of the file.
 
 ## Files
 
-- `Main.m`: simulation and plotting (entry point)
-- `wRLS_CE_LQR.m`: weighted recursive least squares CE-LQR
-- `CEC.m`: regret rate minimizing certainty-equivalence controller
-- `Minimax.m`: minimax optimal dual controller
+- `Example_1.m`: simulation and plotting (entry point for the FIR example)
+- `Example_2.m`: simulation and plotting (entry point for the ARMAX example)
 - `dependencies/`: helper functions
+  - `wRLS_CE_LQR.m`: weighted recursive least squares CE-LQR
+  - `CEC.m`: regret rate minimizing certainty-equivalence controller
+  - `Minimax.m`: minimax optimal dual controller
+  - `minimax_solver.m`: functions used to solve the minimax problem
 
 ## Citation
 
